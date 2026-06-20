@@ -1,0 +1,11 @@
+CLAUDE.md
+.claude/
+
+# Raw/original assets are too large for GitHub — run optimize.sh locally
+*.jpeg
+*.jpg
+*.mp4
+
+# PPT-ready outputs are tracked (small enough, useful to share)
+!ppt-backgrounds/
+!ppt-backgrounds/**
